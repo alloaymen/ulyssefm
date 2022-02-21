@@ -1,0 +1,54 @@
+{
+  "radio": [
+    {
+      "radio_name": "راديو أوليس أف أم",
+      "radio_genre": "الصوت صوتك",
+      "radio_url": "http://live.ulysse-fm.net:2002/live",
+      "radio_image_url": "https://aymenbenismail.com/logoulyssefm.jpg",
+      "background_image_url": "https://aymenbenismail.com/bgulyssefm.gif"
+    }
+  ],
+  "settings": [
+    {
+      "onesignal_app_id": "",
+      "fcm_notification_topic": "ulysse_fm_topic",
+      "privacy_policy_url": "https://www.ulysse-fm.net",
+      "more_apps_url": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": "on",
+      "ad_type": "admob",
+      "admob_publisher_id": "pub-2822713824006778",
+      "admob_banner_unit_id": "ca-app-pub-2822713824006778/2181822445",
+      "admob_interstitial_unit_id": "",
+      "admob_native_unit_id": "ca-app-pub-2822713824006778/5463525189",
+      "admob_app_open_unit_id": "",
+      "startapp_app_id": 0,
+      "unity_game_id": 4089993,
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "interstitial_ad_interval": 1
+    }
+  ],
+  "socials": [
+    {
+      "social_name": "Facebook",
+      "social_icon": "https://image.flaticon.com/icons/png/512/61/61045.png",
+      "social_url": "https://www.facebook.com/UlysseFM.page.officielle"
+    },
+    {
+      "social_name": "Twitter",
+      "social_icon": "https://image.flaticon.com/icons/png/512/60/60580.png",
+      "social_url": "https://twitter.com/RadioUlysseFM"
+    },
+    {
+      "social_name": "Instagram",
+      "social_icon": "https://image.flaticon.com/icons/png/512/61/61164.png",
+      "social_url": "https://www.instagram.com/ulyssefm/"
+    }
+  ]
+}
