@@ -10,7 +10,7 @@
   ],
   "settings": [
     {
-      "onesignal_app_id": "",
+      "onesignal_app_id": "824d7870-9e82-4017-a99d-4357e405a3aa",
       "fcm_notification_topic": "ulysse_fm_topic",
       "privacy_policy_url": "https://sites.google.com/view/webdigital/privacy-policy",
       "more_apps_url": ""
