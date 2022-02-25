@@ -25,13 +25,7 @@
       "admob_interstitial_unit_id": "",
       "admob_native_unit_id": "ca-app-pub-2822713824006778/5463525189",
       "admob_app_open_unit_id": "",
-      "startapp_app_id": 0,
-      "unity_game_id": 0,
-      "unity_banner_placement_id": "banner",
-      "unity_interstitial_placement_id": "video",
-      "applovin_banner_unit_id": "0",
-      "applovin_interstitial_unit_id": "0",
-      "interstitial_ad_interval": 1
+      "interstitial_ad_interval": 100
     }
   ],
   "socials": [
