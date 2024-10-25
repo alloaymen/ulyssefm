@@ -4,8 +4,8 @@
       "radio_name": "راديو أوليس أف أم",
       "radio_genre": "الصوت صوتك",
       "radio_url": "http://51.178.31.38:8000/stream",
-      "radio_image_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/radio-image.jpg",
-      "background_image_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/radio-background.gif",
+      "radio_image_url": "https://aymenbenismail.com/ulyssefmapp/logo.png",
+      "background_image_url": "https://aymenbenismail.com/ulyssefmapp/bg.jpg",
 	  "blur_radio_background": "false",
       "song_metadata": "true",
       "image_album_art": "true",
@@ -62,7 +62,7 @@
     {
       "social_name": "Website",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
-      "social_url": "https://www.solodroid.net"
+      "social_url": "https://ulysse-fm.net/"
     },
     {
       "social_name": "Facebook",
