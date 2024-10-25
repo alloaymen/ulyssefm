@@ -1,8 +1,8 @@
 {
   "radio": [
     {
-      "radio_name": "Your Single Radio",
-      "radio_genre": "World",
+      "radio_name": "راديو أوليس أف أم",
+      "radio_genre": "الصوت صوتك",
       "radio_url": "http://51.178.31.38:8000/stream",
       "radio_image_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/radio-image.jpg",
       "background_image_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/radio-background.gif",
@@ -16,7 +16,7 @@
   "settings": [
     {
       "app_status": "1",
-      "privacy_policy_url": "https://sites.google.com/view/your-single-radio",
+      "privacy_policy_url": "https://sites.google.com/view/webdigital/privacy-policy",
 	  "more_apps_url": "https://codecanyon.net/category/mobile/android?sort=sales&term=solodroid#content",
 	  "redirect_url": ""
     }
@@ -26,11 +26,11 @@
       "ad_status": "1",
       "ad_type": "admob",
       "backup_ads": "none",
-      "admob_publisher_id": "pub-3940256099942544",
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
-      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+      "admob_publisher_id": "pub-2822713824006778",
+      "admob_banner_unit_id": "ca-app-pub-2822713824006778/2181822445",
+      "admob_interstitial_unit_id": "",
+      "admob_native_unit_id": "ca-app-pub-2822713824006778/5463525189",
+      "admob_app_open_ad_unit_id": "",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
@@ -39,7 +39,7 @@
       "fan_interstitial_unit_id": "YOUR_PLACEMENT_ID",
       "fan_native_unit_id": "YOUR_PLACEMENT_ID",
       "startapp_app_id": "0",
-      "unity_game_id": "4089993",
+      "unity_game_id": "",
       "unity_banner_placement_id": "banner",
       "unity_interstitial_placement_id": "video",
       "applovin_banner_ad_unit_id": "0",
@@ -47,7 +47,7 @@
       "applovin_native_ad_manual_unit_id": "0",
       "applovin_banner_zone_id": "0",
       "applovin_interstitial_zone_id": "0",
-      "ironsource_app_key": "85460dcd",
+      "ironsource_app_key": "",
       "ironsource_banner_placement_name": "DefaultBanner",
       "ironsource_interstitial_placement_name": "DefaultInterstitial",
       "wortise_app_id": "test-app-id",
@@ -67,17 +67,17 @@
     {
       "social_name": "Facebook",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/facebook.png",
-      "social_url": "https://www.facebook.com/solodroid.net"
+      "social_url": "https://www.facebook.com/UlysseFM.page.officielle"
     },
     {
       "social_name": "Twitter",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/twitter.png",
-      "social_url": "https://twitter.com/solodroiddev"
+      "social_url": "https://twitter.com/RadioUlysseFM"
     },
     {
       "social_name": "Instagram",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/instagram.png",
-      "social_url": "https://www.instagram.com/solodroid.developer"
+      "social_url": "https://www.instagram.com/ulyssefm"
     }
   ]
 }
